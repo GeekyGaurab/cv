@@ -1,0 +1,38 @@
+body {
+  background-color: #EAF6F6;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+dl {
+  text-indent: 24px;
+  line-height: 1.7;
+}
+
+ul {
+  line-height: 1.7;
+}
+
+ol {
+  line-height: 1.7;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
